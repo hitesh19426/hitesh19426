@@ -4,10 +4,12 @@
 I like applied maths a lot, solving questions and applying techniques. I like gaming but my laptop does not support it xD. 
 Maybe I will continue gaming when I have my own gaming laptop.
 
-- 🌱 I’m currently learning cp, html, css, javascript, flutter (if my laptop will run it). 
+- 🌱 I’ve worked with C++, Java, Python for coding.
+- React-JS, React-Routes, Hooks, Functional Components for web development
+- React-Native and Flutter for app development.
 I will like to learn more on web dev and app dev.
 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to try out open source development/contributions once.
 
 - 📫 How to reach me ...
 
